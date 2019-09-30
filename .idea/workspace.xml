@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="912f7058-9d4b-4370-95fa-19a63b07ac5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GACRAH$GACRAH_16.coverage" NAME="GACRAH_16 Coverage Results" MODIFIED="1548138805531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_partial_data__1_.coverage" NAME="generate_partial_data (1) Coverage Results" MODIFIED="1552471739612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/GACRAH$HashNN.coverage" NAME="HashNN Coverage Results" MODIFIED="1547443059636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$convert_to_baseline_data.coverage" NAME="convert_to_baseline_data Coverage Results" MODIFIED="1548137649129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$GACRAH_Weighted_Correlation_Graph_I2T.coverage" NAME="GACRAH_Weighted_Correlation_Graph_I2T Coverage Results" MODIFIED="1548146263855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_Hashing_Leaning_MIR_16.coverage" NAME="PCMH_Hashing_Leaning_MIR_16 Coverage Results" MODIFIED="1569815665124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$GACRAH_Pretrain_2Path.coverage" NAME="GACRAH_Pretrain_2Path Coverage Results" MODIFIED="1552102268331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_partial_data_mir.coverage" NAME="generate_partial_data_mir Coverage Results" MODIFIED="1569813066599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$map.coverage" NAME="map Coverage Results" MODIFIED="1547454249153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$generate_partial_data.coverage" NAME="generate_partial_data Coverage Results" MODIFIED="1552100801360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$generate_IMH_data.coverage" NAME="generate_IMH_data Coverage Results" MODIFIED="1552100814422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_1Path_Imputation.coverage" NAME="PCMH_1Path_Imputation Coverage Results" MODIFIED="1552991864940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/GACRAH$GALearning.coverage" NAME="GALearning Coverage Results" MODIFIED="1551355543322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$tIMH.coverage" NAME="tIMH Coverage Results" MODIFIED="1556095083288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$pytest_in_test_IMH_py.coverage" NAME="pytest in test_IMH.py Coverage Results" MODIFIED="1551708167959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_ugach_data_nus.coverage" NAME="generate_ugach_data_nus Coverage Results" MODIFIED="1553249655784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/PCMH$tSingleModal.coverage" NAME="tSingleModal Coverage Results" MODIFIED="1560315495871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp/baseline-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_Hashing_Leaning_Wiki_16.coverage" NAME="PCMH_Hashing_Leaning_Wiki_16 Coverage Results" MODIFIED="1553506769712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-Wiki" />
+    <SUITE FILE_PATH="coverage/GACRAH$pytest_in_test_CRA_py.coverage" NAME="pytest in test_CRA.py Coverage Results" MODIFIED="1544590623872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/GACRAH$CRA.coverage" NAME="CRA Coverage Results" MODIFIED="1544936364898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir/util" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_2Path_Imputation_nus.coverage" NAME="PCMH_2Path_Imputation_nus Coverage Results" MODIFIED="1560010012884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_partial_data_Wiki.coverage" NAME="generate_partial_data_Wiki Coverage Results" MODIFIED="1553506751638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-Wiki" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_ugach_data.coverage" NAME="generate_ugach_data Coverage Results" MODIFIED="1559532515003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_2Path_Imputation.coverage" NAME="PCMH_2Path_Imputation Coverage Results" MODIFIED="1559532599304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_partial_data.coverage" NAME="generate_partial_data Coverage Results" MODIFIED="1553506905700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_Hashing_Leaning_MIR_16_RECUR.coverage" NAME="PCMH_Hashing_Leaning_MIR_16_RECUR Coverage Results" MODIFIED="1560518702905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_partial_data_nus.coverage" NAME="generate_partial_data_nus Coverage Results" MODIFIED="1559834989130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/GACRAH$train.coverage" NAME="train Coverage Results" MODIFIED="1548136722091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$mirflickr_old.coverage" NAME="mirflickr-old Coverage Results" MODIFIED="1551672449634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data-preprocessing" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_2Path_Imputation_Wiki.coverage" NAME="PCMH_2Path_Imputation_Wiki Coverage Results" MODIFIED="1553506756334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-Wiki" />
+    <SUITE FILE_PATH="coverage/PCMH$tCRA.coverage" NAME="tCRA Coverage Results" MODIFIED="1569812930595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_2Path_Imputation_MIR.coverage" NAME="PCMH_2Path_Imputation_MIR Coverage Results" MODIFIED="1569814636455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$2.coverage" NAME="2 Coverage Results" MODIFIED="1544887896268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$extract_ae_feature.coverage" NAME="extract_ae_feature Coverage Results" MODIFIED="1548074772441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$reMir.coverage" NAME="reMir Coverage Results" MODIFIED="1556109533083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$generate_ugach_data.coverage" NAME="generate_ugach_data Coverage Results" MODIFIED="1552102695090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_ugach_data__1_.coverage" NAME="generate_ugach_data (1) Coverage Results" MODIFIED="1552387156707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$generate_IMH_data.coverage" NAME="generate_IMH_data Coverage Results" MODIFIED="1556095050415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$mirflickr_old.coverage" NAME="mirflickr-old Coverage Results" MODIFIED="1552916556034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data-preprocessing" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_Hashing_Leaning.coverage" NAME="PCMH_Hashing_Leaning Coverage Results" MODIFIED="1553328628522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/GACRAH$tIMH.coverage" NAME="tIMH Coverage Results" MODIFIED="1552101006612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseline-mir" />
+    <SUITE FILE_PATH="coverage/GACRAH$GACRAH_Pretrain.coverage" NAME="GACRAH_Pretrain Coverage Results" MODIFIED="1547088953482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_Hashing_Leaning_NUS_16.coverage" NAME="PCMH_Hashing_Leaning_NUS_16 Coverage Results" MODIFIED="1560396073983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-nus" />
+    <SUITE FILE_PATH="coverage/GACRAH$tCRA.coverage" NAME="tCRA Coverage Results" MODIFIED="1545208879967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gacrah-pretrain-mir/util" />
+    <SUITE FILE_PATH="coverage/PCMH$PCMH_Hashing_Leaning_MIR_KNN_16.coverage" NAME="PCMH_Hashing_Leaning_MIR_KNN_16 Coverage Results" MODIFIED="1565578645107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCMH-mir" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2114768550">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.0" value="16" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="13" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="IDEA" value="3" />
+          <entry key="py" value="177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="IDEA" value="41" />
+          <entry key="dummy" value="72" />
+          <entry key="py" value="49568" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="Python" value="49568" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1589587791">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="84" />
+          <entry key="project.open.time.0" value="26" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="39" />
+          <entry key="project.open.time.8" value="10" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="102" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="65" />
+          <entry key="py" value="22253" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="Python" value="22253" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="1" />
+          <entry key="py" value="285" />
+          <entry key="txt" value="262" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="263" />
+          <entry key="Python" value="285" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="420426739">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="1" />
+          <entry key="md" value="1" />
+          <entry key="py" value="29" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="913" />
+          <entry key="py" value="37" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="913" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="37" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCMH-mir/generate_partial_data_mir.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+                <marker date="1569815809406" expanded="true" signature="3004:3165" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="667">
+                <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCMH-nus/generate_partial_data_nus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCMH-nus/PCMH_2Path_Imputation_nus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4301">
+              <caret line="187" selection-start-line="187" selection-end-line="187" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCMH-nus/PCMH_Hashing_Leaning_NUS_16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_2Path_Imputation_MIR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="136" column="70" selection-start-line="136" selection-start-column="70" selection-end-line="136" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>square</find>
+      <find>relu</find>
+      <find>T2IMAX</find>
+      <find>aug</find>
+      <find>shuff</find>
+      <find>grad</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/GACRAH_16.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/GALearning.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/util/Discriminator.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/util/CRA.py" />
+        <option value="$PROJECT_DIR$/data-preprocessing/mirflickr-old.py" />
+        <option value="$PROJECT_DIR$/baseline-mir/test_IMH.py" />
+        <option value="$PROJECT_DIR$/baseline-mir/map.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/util/ResidualAE.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/generate_IMH_data.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/generate_partial_data.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/GACRAH_Pretrain_2Path.py" />
+        <option value="$PROJECT_DIR$/gacrah-pretrain-mir/generate_ugach_data.py" />
+        <option value="$PROJECT_DIR$/baseline-mir/tIMH.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/generate_partial_data.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/PCMH_2Path_Imputation.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/util/CRA.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/generate_ugach_data_nus.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/util/ResidualAE.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/PCMH_1Path_Imputation.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/util/PCMH_Hashing.py" />
+        <option value="$PROJECT_DIR$/util/Discriminator.py" />
+        <option value="$PROJECT_DIR$/util/__init__.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/PCMH_Hashing_Leaning.py" />
+        <option value="$PROJECT_DIR$/PCMH-VOC/generate_partial_data_nus.py" />
+        <option value="$PROJECT_DIR$/PCMH-VOC/PCMH_2Path_Imputation_VOC.py" />
+        <option value="$PROJECT_DIR$/PCMH-Wiki/PCMH_Hashing_Leaning_Wiki_16.py" />
+        <option value="$PROJECT_DIR$/PCMH-Wiki/generate_partial_data_Wiki.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/generate_partial_data.py" />
+        <option value="$PROJECT_DIR$/PCMH-Wiki/PCMH_2Path_Imputation_Wiki.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/PCMH_2Path_Imputation.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/generate_IMH_data.py" />
+        <option value="$PROJECT_DIR$/baseline-mir/reMir.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/generate_ugach_data.py" />
+        <option value="$PROJECT_DIR$/temp/generate_ugach_data.py" />
+        <option value="$PROJECT_DIR$/temp/tSingleModal.py" />
+        <option value="$PROJECT_DIR$/temp/baseline-mir/map.py" />
+        <option value="$PROJECT_DIR$/temp/baseline-mir/tSingleModal.py" />
+        <option value="$PROJECT_DIR$/util/CRA.py" />
+        <option value="$PROJECT_DIR$/util/map.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_16_RECUR.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_KNN_16.py" />
+        <option value="$PROJECT_DIR$/util/PCMH_Hashing.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/PCMH_2Path_Imputation_MIR.py" />
+        <option value="$PROJECT_DIR$/util/ResidualAE.py" />
+        <option value="$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_16.py" />
+        <option value="$PROJECT_DIR$/record/map_MIR_16.txt" />
+        <option value="$PROJECT_DIR$/PCMH-mir/generate_partial_data_mir.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/generate_partial_data_nus.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/PCMH_2Path_Imputation_nus.py" />
+        <option value="$PROJECT_DIR$/PCMH-nus/PCMH_Hashing_Leaning_NUS_16.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="35" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PCMH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PCMH-Release" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PCMH-Release\data" />
+      <recent name="E:\PCMH\PCMH-mir" />
+      <recent name="E:\PCMH\PCMH-mir\util_back_up" />
+      <recent name="E:\PCMH\util" />
+      <recent name="E:\PCMH\PCMH-Wiki" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PCMH\temp\baseline-mir" />
+      <recent name="E:\PCMH\temp" />
+      <recent name="E:\PCMH\util" />
+      <recent name="E:\GACRAH\baseline-mir" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.PCMH_Hashing_Leaning_MIR_16">
+    <configuration name="PCMH_2Path_Imputation_MIR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PCMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PCMH-mir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCMH-mir/PCMH_2Path_Imputation_MIR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PCMH_Hashing_Leaning_MIR_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PCMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PCMH-mir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PCMH_Hashing_Leaning_MIR_KNN_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PCMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PCMH-mir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_KNN_16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_partial_data_mir" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PCMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PCMH-mir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCMH-mir/generate_partial_data_mir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tCRA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PCMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/tCRA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PCMH_2Path_Imputation_MIR" />
+      <item itemvalue="Python.PCMH_Hashing_Leaning_MIR_16" />
+      <item itemvalue="Python.generate_partial_data_mir" />
+      <item itemvalue="Python.PCMH_Hashing_Leaning_MIR_KNN_16" />
+      <item itemvalue="Python.tCRA" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PCMH_Hashing_Leaning_MIR_16" />
+        <item itemvalue="Python.PCMH_2Path_Imputation_MIR" />
+        <item itemvalue="Python.generate_partial_data_mir" />
+        <item itemvalue="Python.tCRA" />
+        <item itemvalue="Python.PCMH_Hashing_Leaning_MIR_KNN_16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912f7058-9d4b-4370-95fa-19a63b07ac5f" name="Default Changelist" comment="" />
+      <created>1544535745212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544535745212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_CRA_py - 2018.12.12 at 12h 57m 18s.xml">
+      <configuration name="pytest in test_CRA.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_IMH_py - 2019.03.04 at 22h 03m 00s.xml">
+      <configuration name="pytest in test_IMH.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15671642" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5879531" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48454157" weight="0.39804772" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4120469" side_tool="true" weight="0.21041214" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840087" weight="0.329718" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" sideWeight="0.49840087" weight="0.329718" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp/data-preprocessing/mirflickr-old.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.config['RAEs']" />
+        <watch expression="train_text_list[0:2000] " />
+        <watch expression="__py_debug_temp_var_1084651672" />
+        <watch expression="data" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gacrah-mir/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/extract_ae_feature.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/reMir.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/convert_to_baseline_data.py" />
+    <entry file="file://D:/anaconda3/Lib/site-packages/scipy/io/matlab/mio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/GALearning.py" />
+    <entry file="file://$PROJECT_DIR$/temp/data-preprocessing/mirflickr-old.py" />
+    <entry file="file://$PROJECT_DIR$/PCMH-nus/generate_ugach_data_nus.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/HashNN.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/map.py" />
+    <entry file="file://D:/anaconda3/Lib/site-packages/scipy/spatial/distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="2392" column="35" selection-start-line="2392" selection-start-column="26" selection-end-line="2392" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/tIMH.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/train.py" />
+    <entry file="file://$PROJECT_DIR$/temp/HashNN.py" />
+    <entry file="file://$PROJECT_DIR$/temp/GACRAH_16.py" />
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/temp/generate_IMH_data.py" />
+    <entry file="file://$PROJECT_DIR$/temp/baseline-mir/tSingleModal.py" />
+    <entry file="file://$PROJECT_DIR$/PCMH-nus/PCMH_1Path_Imputation.py" />
+    <entry file="file://$PROJECT_DIR$/temp/generate_ugach_data.py" />
+    <entry file="file://$PROJECT_DIR$/record/conv_MIR_16.txt" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2060878080/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5428">
+          <caret line="240" column="22" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/util_back_up/PCMH_Hashing_Leaning_MIR_16.py" />
+    <entry file="file://D:/anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17112">
+          <caret line="753" selection-start-line="753" selection-end-line="753" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record/map_MIR_128.txt" />
+    <entry file="file://$PROJECT_DIR$/record/map_NUS_16.txt" />
+    <entry file="file://$PROJECT_DIR$/record/map_NUS_32.txt" />
+    <entry file="file://$PROJECT_DIR$/record/map_NUS_64.txt" />
+    <entry file="file://$PROJECT_DIR$/PCMH-VOC/PCMH_Hashing_Leaning_VOC_16.py" />
+    <entry file="file://$PROJECT_DIR$/record/map_MIR_32.txt" />
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_KNN_16.py" />
+    <entry file="file://$PROJECT_DIR$/record/conv_MIR_128.txt" />
+    <entry file="file://$PROJECT_DIR$/record/mir.conf" />
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/2.py" />
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_2Path_Imputation.py" />
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_16_RECUR.py" />
+    <entry file="file://$PROJECT_DIR$/PCMH-nus/generate_IMH_data.py" />
+    <entry file="file://$PROJECT_DIR$/util/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/PCMH_Hashing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/CRA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/tCRA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/Discriminator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/ResidualAE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="111" column="55" selection-start-line="111" selection-start-column="55" selection-end-line="111" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record/map_MIR_16.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/generate_partial_data_mir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_Hashing_Leaning_MIR_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1569815809406" expanded="true" signature="3004:3165" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-nus/generate_partial_data_nus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-nus/PCMH_2Path_Imputation_nus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4301">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-nus/PCMH_Hashing_Leaning_NUS_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCMH-mir/PCMH_2Path_Imputation_MIR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="136" column="70" selection-start-line="136" selection-start-column="70" selection-end-line="136" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="667">
+            <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
