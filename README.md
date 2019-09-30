@@ -17,6 +17,7 @@ Getting started
 git clone https://github.com/AkChen/UDIH
 cd UDIH
 ```
+
 ####. Downlowd the dataset (MIRFlickr & NUS-WIDE)
 ```Java
 https://pan.baidu.com/s/1A9ZLU8l-PKJ0xN8kLWkAFQ  pwd:j5gs 
@@ -30,14 +31,16 @@ cd PCMH-mir
 python  generate_partial_data_mir.py
 ```
 
-Once the partial data is generated, we just need focus on Imputation and Hashing learning.
+Once the partial data is generated, you just need focus on Imputation and Hashing learning.
+
+
 ####. Imputation
 
 Set P_i (default: 0.02) and P_t (default: 0.01) _in PCMH_2Path_Imputation_MIR.py_
 ```Java
 python PCMH_2Path_Imputation_MIR.py
 ```
-####. Hashing Learning
+#### Hashing Learning
 
 Set the length of hash code (default: 16) _BIT_
 ```Java
