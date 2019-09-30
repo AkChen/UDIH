@@ -25,7 +25,7 @@ LIST_DIR = OUT_DIR + 'list/'
 
 
 
-mat_data =scio.loadmat('../data.nus_wide.mat')
+mat_data =scio.loadmat('../data/nus_wide.mat')
 print(mat_data.keys())
 image_data = list(mat_data['I_tr'])
 text_data = list(mat_data[ 'T_tr'])  # np.load('E:\\DataClear\\mirflicker\\tag_vec.npy') #mat_data['text']# mat_data['text'] #np.load('E:\\DataClear\\mirflicker\\tag_vec.npy') #mat_data['text'] #
