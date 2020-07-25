@@ -1,4 +1,4 @@
-Unsupervised Deep Imputed Hashing(UDIH) for partial cross-modal retrieval - Tensorflow
+Unsupervised Deep Imputed Hashing(UDIH) for partial cross-modal retrieval (IJCNN2020)- Tensorflow
 ===
 Prerequisites
 ---
@@ -47,4 +47,3 @@ Set the length of hash code (default: 16) _BIT_
 python PCMH_Hashing_Leaning_MIR_16.py
 ```
 The results will be recorded in _<UDIH_DIR>/record_
-
